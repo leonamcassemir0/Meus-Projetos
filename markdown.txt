@@ -1,0 +1,28 @@
+MARKDOWN 
+
+-> É uma linguagem de marcação do github onde usamos nos readme, issues e nas public request.
+-> **(texto)** ou __(text)__: negrito
+-> *(texto)* ou _(texto)_: itálico
+-> ~~(texto)~~: texto riscado
+-> #: título nível 1
+    - Adicionando mais # aumenta o nível
+-> *** ou ---: cria uma linha horizontal
+
+-> Nas listas podemos criar sub tópicos dando três espaços
+-> - []: cria lista to-do
+    - para concluir colocamos x dentro do []
+-> * (texto): lista demarcada
+
+-> Como criar uma tabela:
+    num | nome | nota
+    ---|---|---
+    1 | Leonam | 10,0
+    2 | Yuri | 3,5
+    3 | Eneia | 6,0
+
+-> `(texto)` para indicar um comando de linguagem de programação
+-> ```(texto)``` para indicar uma parte do código
+
+-> :(nome): ou :(código do emoji): para adicionar emoji
+
+-> > cria uma quote
