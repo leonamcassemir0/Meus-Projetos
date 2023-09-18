@@ -1,0 +1,7 @@
+São ramificações do seu projeto.
+
+Branch Master é o seu projeto final.(obrigatório)
+A cada comit ele coloca um novo versionamento do seu projeto, sendo o último comit sua branch master.
+
+A vantagem é criar ramificações no seu projeto sem atrapalhar sua branch master.
+
